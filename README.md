@@ -12,6 +12,13 @@ Este repositorio contiene el código HTML y CSS para un sitio web de un mercado 
 
 <img src="/img/proyecto.jpeg">
 
+<a href="https://github.com/EstherChuCortes/CSS-NFT-Marketplace" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://estherchucortes.github.io/CSS-NFT-Marketplace/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+
 ¡Explora el mercado de NFT y descubre obras de arte únicas y coleccionables!
 
 🎨🔥🚀
