@@ -8,7 +8,7 @@ Este repositorio contiene el código HTML y CSS para un sitio web de un mercado 
 - **NFT Article:** Muestra información detallada sobre una obra de arte NFT en particular, incluyendo el propietario, el precio actual y botones para realizar una oferta y ver la obra de arte.
 - **Números de NFT:** Muestra estadísticas sobre la cantidad de obras de arte, artistas y subastas en el mercado.
 
-# Vista Previa
+## Vista Previa
 
 <img src="/img/proyecto.jpeg">
 
